@@ -6,6 +6,5 @@ function validateHello(greetings) {
 
 //Best Practices
 
-function evenOrOdd(number) {
-  return number % 2 === 0 ? "Even" : "Odd"const validateHello = greetings => /h[ae]llo|ciao|salut|hola|ahoj|czesc/i.test(greetings);
-}
+
+  const validateHello = greetings => /h[ae]llo|ciao|salut|hola|ahoj|czesc/i.test(greetings);
