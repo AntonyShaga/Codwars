@@ -1,10 +1,10 @@
 // My solution
-function reverseWords(str){
-  return str.split(' ').reverse().join(' ');
-}
-
+function unusualFive() {
+  let five = 'Five!';
+ return five.length;
+ }
 //Best Practices
 
-function reverseWords(str){
-  return str.split(' ').reverse().join(' ');
+function unusualFive() {
+  return 'fucku'.length
 }
